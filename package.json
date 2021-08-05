@@ -1,0 +1,27 @@
+{
+  "name": "proyecto_web",
+  "version": "1.0.0",
+  "description": "Ejemplo de npm en proyecto",
+  "main": "Prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"Prueba"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MFernandaQuinteroSoto/Proyectro-web-con-VSC.git"
+  },
+  "keywords": [
+    "Ejemplo"
+  ],
+  "author": "MariaF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MFernandaQuinteroSoto/Proyectro-web-con-VSC/issues"
+  },
+  "homepage": "https://github.com/MFernandaQuinteroSoto/Proyectro-web-con-VSC#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "jquery": "^3.6.0"
+  }
+}
